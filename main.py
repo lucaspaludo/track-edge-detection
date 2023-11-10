@@ -1,5 +1,5 @@
 import cv2
-import threading
+
 import numpy as np
 
 #abre o vídeo
