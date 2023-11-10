@@ -24,7 +24,9 @@ The first step is to choose the image of the car that will be controlled and for
 
 # Results
 
-https://github.com/lucaspaludo/track-edge-detection/assets/85973512/de784d9f-30c7-4a4e-9732-5b7ccb1ba495
+https://github.com/lucaspaludo/track-edge-detection/assets/85973512/4127db1c-8a62-4cb8-abbc-76a0b20a6111
+
+
 
 
 
