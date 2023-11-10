@@ -13,6 +13,11 @@ The first step is to choose the image of the car that will be controlled and for
 
 ![image](https://github.com/lucaspaludo/track-edge-detection/assets/85973512/3f3be902-f138-45f7-856c-f968f1890807)
 
+## Applying blur
+
+![image](https://github.com/lucaspaludo/track-edge-detection/assets/85973512/90454ca3-e137-4c4c-9746-b2bd07a76ffe)
+
+
 
 
 
