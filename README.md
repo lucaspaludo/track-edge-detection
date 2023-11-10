@@ -9,13 +9,17 @@ The first step is to choose the image of the car that will be controlled and for
 
 # Steps for video processing and edge identification
 
-## Moving to shades of gray
+## 1 - Moving to shades of gray
 
 ![image](https://github.com/lucaspaludo/track-edge-detection/assets/85973512/3f3be902-f138-45f7-856c-f968f1890807)
 
-## Applying blur
+## 2 - Applying blur
 
 ![image](https://github.com/lucaspaludo/track-edge-detection/assets/85973512/90454ca3-e137-4c4c-9746-b2bd07a76ffe)
+
+## 3 - Applying Canny edge identifier
+
+![image](https://github.com/lucaspaludo/track-edge-detection/assets/85973512/d92ca2dd-c612-4af9-85ae-bce7581c95fb)
 
 
 
