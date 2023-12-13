@@ -21,10 +21,19 @@ The first step is to choose the image of the car that will be controlled and for
 
 ![image](https://github.com/lucaspaludo/track-edge-detection/assets/85973512/d92ca2dd-c612-4af9-85ae-bce7581c95fb)
 
+## 4 - Implementing object detection with Haar Cascade
+
+![image](https://github.com/lucaspaludo/track-edge-detection/assets/85973512/fa796315-27dc-4f60-a0ac-be7d6f2abc43)
 
 # Results
 
+## Edge detection
+
 https://github.com/lucaspaludo/track-edge-detection/assets/85973512/4127db1c-8a62-4cb8-abbc-76a0b20a6111
+
+## Edge detection with Haar Cascade
+
+
 
 
 
